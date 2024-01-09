@@ -1,0 +1,43 @@
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/DoXuanTrangLayout.cshtml";
+}
+@model IEnumerable<HangHoa>
+
+<div class="main">
+	<div class="content">
+		<!-- Begin New Product -->
+		<div class="content_top">
+			<div class="heading">
+				<h3>Đỗ Xuân Tráng</h3>
+			</div>
+			<div class="see">
+				<p><a href="#">See all Products</a></p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="section group">
+			@foreach (var i in Model)
+			{
+				<div class="grid_1_of_4 images_1_of_4">
+					<a href="preview.html"><img src="~/images/@i.Anh" alt="" /></a>
+					<h2>@i.TenHang </h2>
+					<div class="price-details">
+						<div class="price-number">
+							<p><span class="rupees">@i.Gia</span></p>
+						</div>
+						<div class="add-cart">
+							<h4><a href="preview.html">Add to Cart</a></h4>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+			}
+
+		</div>
+		<!-- End New Product -->
+		<!-- Begin Feature Products -->
+		<!-- End Feature Products -->
+	</div>
+</div>
+

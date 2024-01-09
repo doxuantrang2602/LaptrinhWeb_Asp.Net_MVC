@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DoXuanTrang_211240555_703.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoXuanTrang_211240555_703.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\css\\skdslider.css",
+      "PackagePath": "staticwebassets\\css\\skdslider.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\111.jpg",
+      "PackagePath": "staticwebassets\\images\\111.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\12.png",
+      "PackagePath": "staticwebassets\\images\\12.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\13.png",
+      "PackagePath": "staticwebassets\\images\\13.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\14.png",
+      "PackagePath": "staticwebassets\\images\\14.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\15.png",
+      "PackagePath": "staticwebassets\\images\\15.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\16.png",
+      "PackagePath": "staticwebassets\\images\\16.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\17.png",
+      "PackagePath": "staticwebassets\\images\\17.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\22.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\44.jpg",
+      "PackagePath": "staticwebassets\\images\\44.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\b1.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\b3.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv1.png",
+      "PackagePath": "staticwebassets\\images\\bv1.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv2.png",
+      "PackagePath": "staticwebassets\\images\\bv2.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv3.png",
+      "PackagePath": "staticwebassets\\images\\bv3.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv4.png",
+      "PackagePath": "staticwebassets\\images\\bv4.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv5.png",
+      "PackagePath": "staticwebassets\\images\\bv5.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv6.png",
+      "PackagePath": "staticwebassets\\images\\bv6.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv7.png",
+      "PackagePath": "staticwebassets\\images\\bv7.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv8.jpg",
+      "PackagePath": "staticwebassets\\images\\bv8.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv8.png",
+      "PackagePath": "staticwebassets\\images\\bv8.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\bv9.png",
+      "PackagePath": "staticwebassets\\images\\bv9.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\card.png",
+      "PackagePath": "staticwebassets\\images\\card.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\check.png",
+      "PackagePath": "staticwebassets\\images\\check.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\images\\close_1.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\gu1.png",
+      "PackagePath": "staticwebassets\\images\\gu1.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\gu2.png",
+      "PackagePath": "staticwebassets\\images\\gu2.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\gu3.png",
+      "PackagePath": "staticwebassets\\images\\gu3.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\gu4.png",
+      "PackagePath": "staticwebassets\\images\\gu4.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\gu5.png",
+      "PackagePath": "staticwebassets\\images\\gu5.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\gu6.png",
+      "PackagePath": "staticwebassets\\images\\gu6.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\gu7.png",
+      "PackagePath": "staticwebassets\\images\\gu7.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\gu8.png",
+      "PackagePath": "staticwebassets\\images\\gu8.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\gu9.png",
+      "PackagePath": "staticwebassets\\images\\gu9.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\hh1.png",
+      "PackagePath": "staticwebassets\\images\\hh1.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\hh2.png",
+      "PackagePath": "staticwebassets\\images\\hh2.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\hh3.png",
+      "PackagePath": "staticwebassets\\images\\hh3.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\hh4.png",
+      "PackagePath": "staticwebassets\\images\\hh4.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\hh5.png",
+      "PackagePath": "staticwebassets\\images\\hh5.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\hh6.png",
+      "PackagePath": "staticwebassets\\images\\hh6.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\hh7.png",
+      "PackagePath": "staticwebassets\\images\\hh7.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\hh8.png",
+      "PackagePath": "staticwebassets\\images\\hh8.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\hh9.png",
+      "PackagePath": "staticwebassets\\images\\hh9.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\images\\icon1.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\images\\icon2.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\offer.png",
+      "PackagePath": "staticwebassets\\images\\offer.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\p2.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\p3.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\images\\p4.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pc1.png",
+      "PackagePath": "staticwebassets\\images\\pc1.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pc2.png",
+      "PackagePath": "staticwebassets\\images\\pc2.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pc3.png",
+      "PackagePath": "staticwebassets\\images\\pc3.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pc4.png",
+      "PackagePath": "staticwebassets\\images\\pc4.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pc5.png",
+      "PackagePath": "staticwebassets\\images\\pc5.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pc6.png",
+      "PackagePath": "staticwebassets\\images\\pc6.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pc7.png",
+      "PackagePath": "staticwebassets\\images\\pc7.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pc8.png",
+      "PackagePath": "staticwebassets\\images\\pc8.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pc9.jpg",
+      "PackagePath": "staticwebassets\\images\\pc9.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pf1.png",
+      "PackagePath": "staticwebassets\\images\\pf1.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pf2.png",
+      "PackagePath": "staticwebassets\\images\\pf2.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pf3.png",
+      "PackagePath": "staticwebassets\\images\\pf3.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pf4.png",
+      "PackagePath": "staticwebassets\\images\\pf4.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pf5.png",
+      "PackagePath": "staticwebassets\\images\\pf5.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pf6.png",
+      "PackagePath": "staticwebassets\\images\\pf6.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pf7.png",
+      "PackagePath": "staticwebassets\\images\\pf7.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pf8.png",
+      "PackagePath": "staticwebassets\\images\\pf8.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\pf9.png",
+      "PackagePath": "staticwebassets\\images\\pf9.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\si1.jpg",
+      "PackagePath": "staticwebassets\\images\\si1.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\star.png",
+      "PackagePath": "staticwebassets\\images\\star.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\star1.png",
+      "PackagePath": "staticwebassets\\images\\star1.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\images\\t1.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\images\\t2.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\images\\t3.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\images\\t4.jpg"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\images\\tick.png",
+      "PackagePath": "staticwebassets\\images\\tick.png"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\js\\easing.js",
+      "PackagePath": "staticwebassets\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\js\\minicart.min.js",
+      "PackagePath": "staticwebassets\\js\\minicart.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\js\\move-top.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\js\\skdslider.min.js",
+      "PackagePath": "staticwebassets\\js\\skdslider.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\A. Cùng nhau qua WEB\\DoXuanTrang_21124055_703\\DoXuanTrang_21124055_703\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoXuanTrang_211240555_703.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoXuanTrang_211240555_703.props",
+      "PackagePath": "build\\DoXuanTrang_211240555_703.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoXuanTrang_211240555_703.props",
+      "PackagePath": "buildMultiTargeting\\DoXuanTrang_211240555_703.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoXuanTrang_211240555_703.props",
+      "PackagePath": "buildTransitive\\DoXuanTrang_211240555_703.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

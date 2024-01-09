@@ -1,0 +1,42 @@
+﻿@model IEnumerable<LoaiHang>
+
+
+<div class="menu">
+	<ul>
+		<li class="active"><a href="index.html">Đỗ Xuân Tráng</a></li>
+			
+		@foreach(var i in Model)
+		{
+			<li id="@i.MaLoai"><a>@i.TenLoai</a></li>
+		}
+		<div class="clear"></div>
+	</ul>
+</div>
+<div class="search_box">
+	<form>
+		<input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+		<input type="button" value="">
+	</form>
+</div>
+<div class="clear"></div>
+
+
+@* @section Scripts{
+	<script>
+		$("li").click(function (e)){
+			var id = $(this).attr("id");
+			alert(id);
+			var data = {
+				mid: id
+			};
+			$.ajax({
+				url: '/BaiThi/RenderByID',
+				data: data,
+				success: function (response) {
+					$("div.content").html(response)
+				}
+			});
+		}
+	</script>
+}
+ *@

@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DeThiMau
+build_property.RootNamespace = DeThiMau
+build_property.ProjectDir = D:\A. Cùng nhau qua WEB\DoXuanTrang_21124055_DeThiMau\DeThiMau\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\A. Cùng nhau qua WEB\DoXuanTrang_21124055_DeThiMau\DeThiMau
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/BaiThi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVGhpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/BaiThi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVGhpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/BaiThi/RenderLoaiHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVGhpXFJlbmRlckxvYWlIYW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/HangHoas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/HangHoas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/HangHoas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/HangHoas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/HangHoas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Shared/Components/Render/RenderHeaderBottom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVuZGVyXFJlbmRlckhlYWRlckJvdHRvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Shared/DoXuanTrangLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Shared/DoXuanTrang_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Shared/DoXuanTrang_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nX0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Shared/DoXuanTrang_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nX01haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_DeThiMau/DeThiMau/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-488suz5dvm

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Category>
+
+<div class="sorting-list">
+	<div class="sorting-left">
+		<select id="country1" onchange="" class="frm-field required sect" ">
+			<option selected>Chọn trạng thái</option>
+			<option value="0"><i class="fa fa-arrow-right" aria-hidden="true"></i>Tất cả</option>
+			@foreach(var i in Model)
+			{
+				<option id="@i.Id" value="@i.Id"><i class="fa fa-arrow-right" aria-hidden="true"></i>@i.Name</option>
+			}
+		</select>
+	</div>
+	<div class="sorting-text">Filtering By Categories</div>
+	<div class="clearfix"></div>
+</div>
+
+<script>
+	$("#country1").change(function () {
+		var id = $(this).val();
+		$.ajax({
+			url: '/BaiThi/FilterProductByCate',
+			data: { mid: id },
+			success: function (result) {
+				$("div.content").html(result);
+			}
+		});
+	});
+</script>

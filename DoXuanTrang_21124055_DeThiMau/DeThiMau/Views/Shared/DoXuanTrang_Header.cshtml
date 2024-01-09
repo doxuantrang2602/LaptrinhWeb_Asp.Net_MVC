@@ -1,0 +1,42 @@
+﻿<div class="header">
+	<div class="header_top">
+		<div class="logo">
+			<a href="index.html"><img src="images/logo.png" alt="" /></a>
+		</div>
+		<div class="cart">
+			<p>
+				Welcome to our Online Store! <span>Cart:</span><div id="dd" class="wrapper-dropdown-2">
+					0 item(s) - $0.00
+					<ul class="dropdown">
+						<li>you have no items in your Shopping cart</li>
+					</ul>
+				</div>
+			</p>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="header_bottom">
+	@await Component.InvokeAsync("Render")
+	</div>
+
+</div>
+@section Scripts{
+	<script>
+		$("li").click(function (e) {
+			var id = $(this).attr("id");
+			alert(id);
+			$.ajax({
+				url: "/BaiThi/RenderByID",
+				data: { mid: id },
+				success: function (res) {
+					//$("div.content").html("")
+					$("div.content").html(res);
+				}
+			});
+		});
+	</script>
+}
+
+
+
+

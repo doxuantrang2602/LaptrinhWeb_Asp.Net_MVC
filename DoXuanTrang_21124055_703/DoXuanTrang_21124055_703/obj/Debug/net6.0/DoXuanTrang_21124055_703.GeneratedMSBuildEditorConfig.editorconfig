@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DoXuanTrang_21124055_703
+build_property.RootNamespace = DoXuanTrang_21124055_703
+build_property.ProjectDir = D:\A. Cùng nhau qua WEB\DoXuanTrang_21124055_703\DoXuanTrang_21124055_703\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\A. Cùng nhau qua WEB\DoXuanTrang_21124055_703\DoXuanTrang_21124055_703
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/BaiThi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVGhpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/BaiThi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVGhpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/BaiThi/ProductTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVGhpXFByb2R1Y3RUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/Components/Render/RenderProductLeft.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVuZGVyXFJlbmRlclByb2R1Y3RMZWZ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/DoXuanTrang_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/DoXuanTrang_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nX0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/DoXuanTrang_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/DoXuanTrang_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nX01haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/DoXuanTrang_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nX05hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/DoXuanTrang_ProductLeft.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhblRyYW5nX1Byb2R1Y3RMZWZ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/A. Cùng nhau qua WEB/DoXuanTrang_21124055_703/DoXuanTrang_21124055_703/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qlfyzst7g5

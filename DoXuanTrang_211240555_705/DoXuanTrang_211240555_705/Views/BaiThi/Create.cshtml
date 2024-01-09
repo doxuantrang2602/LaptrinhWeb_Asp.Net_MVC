@@ -1,0 +1,41 @@
+﻿@model DoXuanTrang_211240555_705.Models.Customer
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/DoXuanTrang_Layout.cshtml";
+}
+
+<div>
+    <h2>SignUp</h2>
+</div>
+<div class="row">
+    <div class="col-md-4" style="margin-left: 180px">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Fullname" class="control-label"></label>
+                <input asp-for="Fullname" class="form-control" />
+                <span asp-validation-for="Fullname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RePassword" class="control-label"></label>
+                <input asp-for="RePassword" class="form-control" />
+                <span asp-validation-for="RePassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Sign up" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
